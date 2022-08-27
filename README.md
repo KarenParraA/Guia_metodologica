@@ -1,8 +1,9 @@
 # DataJam - QGis Warriors
 ## Integrantes
-- A
-- B
-- Danny-Vasco
+- [Danny Vasco](https://github.com/Danny-Vasco) - [Click para revelar email](mailto:marcelovasco4@gmail.com)
+- [Karen Parra](https://github.com/KarenParraA/) - [Click para revelar email](mailto:kren.parra9@gmail.com)
+- [José Jácome](https://github.com/josejacomeb/)
+
 
 ## Descripción
 Manejar y limpiar bases de datos
@@ -14,3 +15,7 @@ Manejar y limpiar bases de datos
 - Entrar via terminal `CMD` en Windows o `Bash` en Linux y entrar a la carpeta `DataJam`
 - Instalar las dependencias del proyecto via el comando `pip install -r requirements.txt`
 - Escribir el siguiente comando para abrir los notebooks de la `jupyter lab`
+- Abrir el Notebook [Limpieza_Datos.ipynb](https://github.com/KarenParraA/DataJam/blob/main/Limpieza_Datos.ipynb)
+
+## Licencia
+GNU GLP v3
