@@ -2,7 +2,7 @@
 ## Integrantes
 - A
 - B
-- C
+- Danny-Vasco
 
 ## Descripción
 Manejar y limpiar bases de datos
