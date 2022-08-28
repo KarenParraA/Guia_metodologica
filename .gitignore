@@ -218,3 +218,4 @@ Thumb.db
 Testing/*
 .cache/
 compile_commands.json
+*.gpkg
