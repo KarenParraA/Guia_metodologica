@@ -34,7 +34,7 @@ Manejar y limpiar bases de datos de recursos hídricos a base de librerías de s
 ### ¿Cómo abrir el archivo de Análisis?
 
 ## Resultados
-![Resultados QGIS](INDUSTRIA TEXTIL.png)
+![Resultados QGIS](https://github.com/KarenParraA/DataJam/blob/main/INDUSTRIA%20TEXTIL.png?raw=true)
 
 ## Licencia
 GNU GLP v3
