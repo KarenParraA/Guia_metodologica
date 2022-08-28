@@ -9,7 +9,7 @@
 Manejar y limpiar bases de datos
 
 ## Software utilizado
-- QGIS v 3.22 [Link de descarga] (https://qgis.org/es/site/forusers/download.html)
+- QGIS v 3.22 [Link de descarga](https://qgis.org/es/site/forusers/download.html)
 
 ## ¿Cómo ejecutar este Notebook?
 - Instalar Python >= 3.8 desde la página oficial, por ejemplo seleccionar Windows installer (64-bit) para Windows [Link Descarga Python](https://www.python.org/downloads/release/python-3106/)
