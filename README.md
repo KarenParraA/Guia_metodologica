@@ -42,7 +42,7 @@ Programa modelo para limpiar, explorar y visualizar bases de datos de recursos h
 
 ### ¿Cómo abrir el archivo de Análisis?
 
-## Resultados
+## Resultados del caso de estudio DataJam
 ![Resultados QGIS](https://github.com/KarenParraA/DataJam/blob/main/INDUSTRIA%20TEXTIL.png?raw=true)
 
 ## Licencia
