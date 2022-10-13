@@ -1,20 +1,29 @@
-# DataJam - QGis Warriors
-## Integrantes
+# Ejemplo práctico de la guía metodológica para identificar zonas libres de conflicto ambiental
+## Equipo
+Guía elaborada por el Equipo QGIS-Warriors ganador del [Datajam 2022](https://participa.datalat.org/conferences/datajam2022?locale=es), [Categoría 1](https://docs.google.com/spreadsheets/d/1nzGWhM-CD_C9RntCxUfvotcMMtHusdEdj4DyOXPV7AI/edit?usp=sharing) Dateando por el agua
 - [Danny Vasco](https://github.com/Danny-Vasco) - [Click para revelar email](mailto:marcelovasco4@gmail.com)
 - [Karen Parra](https://github.com/KarenParraA/) - [Click para revelar email](mailto:kren.parra9@gmail.com)
 - [José Jácome](https://github.com/josejacomeb/)
 
+## Con el apoyo de
+
+<a href="https://datalat.org/" target="_blank"><img src="https://datalat.org/wp-content/uploads/2021/08/cropped-Logo300ppi.jpg"  style="max-height: 100px;"></a>
+<a href="https://hubuio.ec/" target="_blank"><img src="https://hubuio.ec/wp-content/uploads/2021/09/04-25pr-e1632715032810.png" style="max-height: 100px;"></a>
+<a href="https://www.gobiernoabierto.ec/" target="_blank"><img src="https://www.gobiernoabierto.ec/wp-content/uploads/2018/10/logo-GAE-500-01.jpg?x58984" style="max-height: 100px;"></a>
+<a href="https://www.ambiente.gob.ec/" target="_blank"><img src="https://www.ambiente.gob.ec/wp-content/uploads/2012/09/LOGO6.jpg" style="max-height: 100px;"></a>
+
 
 ## Descripción
-Manejar y limpiar bases de datos de recursos hídricos a base de librerías de software libre, proyección cartográfica en Sistema SIG, evaluación de una zona adecuada de una industria y evaluación del número de autorizaciones hídricas. 
+Programa modelo para limpiar, explorar y visualizar bases de datos de recursos hídricos a base de librerías de software libre. Además del análisis de proyección cartográfica en Sistemas de Información Geográfica (SIG), para a yudar evaluación del otorgamiento de una autorización hídrica para una industria que no presente conflicto ambiental. 
 
 ## Software utilizado
-- QGIS v3.22 [Link de descarga](https://qgis.org/es/site/forusers/download.html)
+- QGIS v3.26 [Link de descarga](https://qgis.org/es/site/forusers/download.html)
 - Python >= 3.8 [Link Descarga Python](https://www.python.org/downloads/release/python-3106/)
 - Numpy v1.23.2 - Librería de análisis científico de Python [Página Oficial](https://numpy.org/)
 - Pandas v1.4.3 - Librería de análisis y manipulación de datos para Python [Página Oficial](https://pandas.pydata.org/)
 - Jupyterlab v3.4.5 - Interfaz amigable basada en Web para Python [Página Oficial](https://jupyter.org/)
 - Openpyxl v3.0.10 - Librería de Python para leer/escribir archivos de excel [Página Oficial](https://openpyxl.readthedocs.io/en/stable/)
+- Excel: Filtrado, visualizzación de datos gráficamente y uso de tablas dinámicas
 
 ## Ejecución de los archivos
 ### ¿Cómo ejecutar los Notebooks de Python?
@@ -37,4 +46,4 @@ Manejar y limpiar bases de datos de recursos hídricos a base de librerías de s
 ![Resultados QGIS](https://github.com/KarenParraA/DataJam/blob/main/INDUSTRIA%20TEXTIL.png?raw=true)
 
 ## Licencia
-GNU GLP v3
+[GNU GLP v3](https://github.com/KarenParraA/DataJam/blob/main/LICENSE.md)
