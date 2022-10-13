@@ -7,10 +7,10 @@ Guía elaborada por el Equipo QGIS-Warriors ganador del [Datajam 2022](https://p
 
 ## Con el apoyo de
 
-<a href="https://datalat.org/" target="_blank"><img src="https://datalat.org/wp-content/uploads/2021/08/cropped-Logo300ppi.jpg" style="max-height: 100px; max-width: 100px;"></a>
-<a href="https://hubuio.ec/" target="_blank"><img src="https://hubuio.ec/wp-content/uploads/2021/09/04-25pr-e1632715032810.png" style="max-height: 100px; max-width: 100px;"></a>
-<a href="https://www.gobiernoabierto.ec/" target="_blank"><img src="https://www.gobiernoabierto.ec/wp-content/uploads/2018/10/logo-GAE-500-01.jpg?x58984" style="max-height: 100px; max-width: 100px;"></a>
-<a href="https://www.ambiente.gob.ec/" target="_blank"><img src="https://www.ambiente.gob.ec/wp-content/uploads/2012/09/LOGO6.jpg" style="max-height: 100px; max-width: 100px;"></a>
+<a href="https://datalat.org/" target="_blank"><img src="https://datalat.org/wp-content/uploads/2021/08/cropped-Logo300ppi.jpg" style="height: 100px; width: auto;"></a>
+<a href="https://hubuio.ec/" target="_blank"><img src="https://hubuio.ec/wp-content/uploads/2021/09/04-25pr-e1632715032810.png" style="height: 100px; width: auto;"></a>
+<a href="https://www.gobiernoabierto.ec/" target="_blank"><img src="https://www.gobiernoabierto.ec/wp-content/uploads/2018/10/logo-GAE-500-01.jpg?x58984" style="height: 100px; width: auto;"></a>
+<a href="https://www.ambiente.gob.ec/" target="_blank"><img src="https://www.ambiente.gob.ec/wp-content/uploads/2012/09/LOGO6.jpg" style="height: 100px; width: auto;"></a>
 
 
 ## Descripción
