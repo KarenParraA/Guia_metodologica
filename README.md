@@ -43,7 +43,7 @@ Programa modelo para limpiar, explorar y visualizar bases de datos de recursos h
 ### ¿Cómo abrir el archivo de Análisis?
 
 ## Resultados del caso de estudio DataJam
-![Resultados QGIS](https://github.com/KarenParraA/DataJam/blob/main/Resultados/Geoprocesamiento/INDUSTRIA%20TEXTIL.png?raw=true)
+![Resultados QGIS](https://github.com/KarenParraA/DataJam/blob/main/Resultados/Geoprocesamiento/Mapa_identificación_de_zonas_libres_de_conflicto_ambiental.png?raw=true)
 
 ## Licencia
 [GNU GLP v3](https://github.com/KarenParraA/DataJam/blob/main/LICENSE.md)
